@@ -1,6 +1,6 @@
 ## FaceBash For Termux ( No Root Need )
 ### How To Use :
-* git clone https://github.com/th3unkn0n/facebash-termux
+* git clone https://github.com/hunter277/fk-bee
 * cd facebash-termux
 * sh install.sh
 * tor
@@ -11,4 +11,4 @@
 
 * This Is Just Edited Code So It Can Work In Termux
 * Orignal Code : 
-* github.com/thelinuxchoice/facebash
+* https://github.com/hunter277/fk-bee
